@@ -1,8 +1,9 @@
 # Site settings
-title: Arvind Patel
-email: arvindipatel@yahoo.co.in
+title: Arvind's Portfolio
+name: Arvind Patel
+email: f/xeqpyjae
 url: https://arvindipatel@github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "A personal website of Arvind I Patel."
 keywords: "arvind, mechanical, space-technology, design, CAD"
 skills: "Mechanical Designer and Consultant"
 meta_author: Patel Arvind
@@ -25,30 +26,31 @@ disqus_shortname: aipatel
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
+  primary: 0d3ea1
   primary-rgb: "24,288,156" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
+  header: 233140 
 
 # Footer settings
 footer:
   copyright: Mr. Arvind I Patel
-  location: Ahmedabad
+  location: 
   social: 
   credits: 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+# social:
+#   - title: twitter
+#     url: http://twitter.com/jekyllrb
+#   - title: facebook
+#     url:
+#   - title: stack-overflow
+#     url: http://stackoverflow.com/questions/tagged/jekyll
+#   - title: bitbucket
+#     url: http://bitbucket.org/jekyll
+#   - title: github
+#     url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 # address:
